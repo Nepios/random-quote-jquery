@@ -1,0 +1,30 @@
+body {
+	background-color: blue;
+	background-image: url(../images/DonutWallpaper2.jpg);
+}
+
+p span {
+	color: red;
+}
+
+div.donuts {
+	margin-left: 20px;
+}
+
+.readable-text {
+	background-color: #FFF;
+	border: 1px solid #FFAAAA;
+	overflow: hidden;
+}
+
+.horizontal li {
+	list-style-type: none;
+	float: left;
+	margin: 10px;
+
+}
+
+.rotated {
+	-webkit-transform: rotate(-15deg);
+	transform: rotate(-15deg);
+}
